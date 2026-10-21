@@ -1,0 +1,66 @@
+{
+  "messages": [
+    {
+      "type": "msg",
+      "raw_time": false,
+      "sender": "3555ebe17f7b49819662d09d99cc78e3",
+      "time": 1791216031.509422,
+      "metadata": {
+        "model": {
+          "id": null,
+          "settings": {}
+        },
+        "settings": {},
+        "to_persona": "jupyter-ai-personas::jupyter_ai_acp_client::OpenCodeAcpPersona"
+      },
+      "body": "Hi",
+      "id": "83110dd1-38f1-4f2f-8d70-0bae4f2f3444"
+    },
+    {
+      "id": "981df5cb-235c-4720-aede-c431e7b15832",
+      "type": "msg",
+      "mentions": [],
+      "time": 1791216040.9504664,
+      "body": "Hi! How can I help you today?",
+      "sender": "jupyter-ai-personas::jupyter_ai_acp_client::OpenCodeAcpPersona",
+      "raw_time": false
+    }
+  ],
+  "users": {
+    "jupyter-ai-personas::jupyter_ai_acp_client::OpenCodeAcpPersona": {
+      "username": "jupyter-ai-personas::jupyter_ai_acp_client::OpenCodeAcpPersona",
+      "bot": true,
+      "avatar_url": "/api/ai/avatars/jupyter-ai-personas%3A%3Ajupyter_ai_acp_client%3A%3AOpenCodeAcpPersona",
+      "initials": null,
+      "name": "OpenCode",
+      "display_name": "OpenCode",
+      "color": null
+    },
+    "3555ebe17f7b49819662d09d99cc78e3": {
+      "mention_name": "Anonymous-Aitne",
+      "name": "Anonymous Aitne",
+      "display_name": "Anonymous Aitne",
+      "username": "3555ebe17f7b49819662d09d99cc78e3",
+      "avatar_url": null,
+      "initials": "AA",
+      "color": "var(--jp-collaborator-color5)",
+      "bot": false
+    },
+    "hidden::jupyter_ai_system": {
+      "color": null,
+      "display_name": "System",
+      "name": "System",
+      "initials": null,
+      "bot": true,
+      "username": "hidden::jupyter_ai_system",
+      "avatar_url": null
+    }
+  },
+  "attachments": {},
+  "metadata": {
+    "id": "c8f63e1e-cba4-434e-a7d4-6113fb7a64ab",
+    "acp_session_ids": {
+      "jupyter-ai-personas::jupyter_ai_acp_client::OpenCodeAcpPersona": "ses_ef334ab25ffef2OiaEGYnXhHif"
+    }
+  }
+}
